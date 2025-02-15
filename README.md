@@ -1,5 +1,5 @@
 # Portugal Shapefiles
- <br /> <br /> <br />
+ <br />
 [PT] <br />
 Level 1: As fronteiras nacionais oficiais de Portugal reconhecidas pela República Portuguesa. <br />
 Level 2: As fronteiras distritais de Portugal. <br />
